@@ -1,4 +1,4 @@
-This simple program that indents JSON from STDIN into STDOUT.
+This simple application indents JSON from STDIN into STDOUT.
 
 Use it like:
 
