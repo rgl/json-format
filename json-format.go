@@ -8,7 +8,9 @@
 //
 //  echo '{"Hello":1,"World":2}' | ./json-format
 //
-// NB for a Python version see https://gist.github.com/rgl/7895875package main
+// NB for a Python version see https://gist.github.com/rgl/7895875
+
+package main
 
 import "bytes"
 import "encoding/json"
